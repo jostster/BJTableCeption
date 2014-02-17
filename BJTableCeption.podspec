@@ -6,32 +6,22 @@
 #
 Pod::Spec.new do |s|
   s.name             = "BJTableCeption"
-  s.version          = "0.1.0"
-  s.summary          = "A short description of BJTableCeption."
+  s.platform		 = :ios, "7.0"
+  s.version          = "0.1.1"
+  s.summary          = "Add categories (sub section headers) to your UITableView."
   s.description      = <<-DESC
-                       An optional longer description of BJTableCeption
+                       Add categories (sub section headers) to your UITableView
 
                        * Markdown format.
                        * Don't worry about the indent, we strip it!
                        DESC
-  s.homepage         = "http://EXAMPLE/NAME"
-  s.screenshots      = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
+  s.homepage         = "https://github.com/jostster/BJTableCeption"
+  s.screenshots      = "https://raw2.github.com/jostster/BJTableCeption/master/Project/images/Screenshot_1.png"
   s.license          = 'MIT'
   s.author           = 'Brian Jost'
   s.source           = { :git => "https://github.com/jostster/BJTableCeption.git", :tag => s.version.to_s }
-  s.social_media_url = 'https://twitter.com/NAME'
 
-  # s.platform     = :ios, '5.0'
-  # s.ios.deployment_target = '5.0'
-  # s.osx.deployment_target = '10.7'
   s.requires_arc = true
 
-  s.source_files = 'Classes'
-  s.resources = 'Assets'
-
-  s.ios.exclude_files = 'Classes/osx'
-  s.osx.exclude_files = 'Classes/ios'
-  # s.public_header_files = 'Classes/**/*.h'
-  # s.frameworks = 'SomeFramework', 'AnotherFramework'
-  # s.dependency 'JSONKit', '~> 1.4'
+  s.source_files = 'BJTableCeption'
 end

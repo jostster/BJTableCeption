@@ -46,10 +46,6 @@
 - (void)registerNib:(UINib *)nib forCellReuseIdentifier:(NSString *)identifier;
 - (id)dequeueReusableCellWithIdentifier:(NSString *)identifier;
 
-// Accessing Header and Footer Views
-- (void)registerNib:(UINib *)nib forHeaderFooterViewReuseIdentifier:(NSString *)identifier NS_AVAILABLE_IOS(6_0);
-- (void)registerClass:(Class)aClass forHeaderFooterViewReuseIdentifier:(NSString *)identifier NS_AVAILABLE_IOS(6_0);
-- (id)dequeueReusableHeaderFooterViewWithIdentifier:(NSString *)identifier NS_AVAILABLE_IOS(6_0);
 
 @property (strong, nonatomic, readonly) NSMutableArray *sections;
 @property (strong, nonatomic) UITableView *tableView;

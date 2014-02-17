@@ -23,6 +23,8 @@ Alternatively you can copy the `BJTableCeption` folder into your project and `#i
 
 Brian Jost
 
+Idea based on [RATreeView](https://github.com/Augustyniak/RATreeView)
+
 ## License
 
 BJTableCeption is available under the MIT license. See the LICENSE file for more info.

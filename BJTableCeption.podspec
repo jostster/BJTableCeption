@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = "BJTableCeption"
   s.platform		 = :ios, "7.0"
-  s.version          = "0.1.0"
+  s.version          = "0.0.1"
   s.summary          = "Add categories (sub section headers) to your UITableView."
   s.description      = <<-DESC
                        Add categories (sub section headers) to your UITableView

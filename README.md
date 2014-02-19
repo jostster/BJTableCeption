@@ -2,13 +2,16 @@
 
 [![Version](http://cocoapod-badges.herokuapp.com/v/BJTableCeption/badge.png)](http://cocoadocs.org/docsets/BJTableCeption)
 [![Platform](http://cocoapod-badges.herokuapp.com/p/BJTableCeption/badge.png)](http://cocoadocs.org/docsets/BJTableCeption)
+Test
+-![Screenshot](https://raw2.github.com/jostster/BJTableCeption/master/Project/images/Screenshot_1.png)
 
-![Screenshot](https://s3.amazonaws.com/cocoacontrols_production/uploads/control_image/image/3064/Screenshot_1.png)
 ## Usage
 
-To run the example project; clone the repo, and run `pod install` from the Project directory first.
+To run the example project; clone the repo, or install with CocoaPods `pod 'BJTableCeption'`
 
 ## Requirements
+
+BJTableCeption was made for iOS 7. It may be possible to use BJTableCeption on an earlier iOS version but this has not been tested.
 
 ## Installation
 

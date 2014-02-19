@@ -2,7 +2,7 @@
 
 [![Version](http://cocoapod-badges.herokuapp.com/v/BJTableCeption/badge.png)](http://cocoadocs.org/docsets/BJTableCeption)
 [![Platform](http://cocoapod-badges.herokuapp.com/p/BJTableCeption/badge.png)](http://cocoadocs.org/docsets/BJTableCeption)
-Test
+
 -![Screenshot](https://raw2.github.com/jostster/BJTableCeption/master/Project/images/Screenshot_1.png)
 
 ## Usage
